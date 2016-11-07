@@ -1,11 +1,11 @@
 #Greenfoot properties
-#Mon Nov 07 13:30:45 CET 2016
+#Mon Nov 07 13:32:28 CET 2016
 readme.name=@README
 class.Tank.image=wet-blue.jpg
 target2.name=Fish
-target4.y=70
-target4.x=180
-target4.name=Octopus
+target4.y=10
+target4.x=160
+target4.name=Tank
 class.octopus.image=octupus.png
 <<<<<<< HEAD
 class.octopus.superclass=greenfoot.Actor
@@ -24,8 +24,8 @@ mainWindow.y=11
 package.numDependencies=0
 =======
 target2.showInterface=false
-target3.y=10
-target3.x=160
+target3.y=70
+target3.x=180
 target1.type=ClassTarget
 class.MyWorld.superclass=greenfoot.World
 target3.type=ClassTarget
@@ -51,7 +51,7 @@ target1.name=CreatureABS
 editor.swing.0.width=0
 editor.fx.0.width=700
 target4.height=50
-target3.name=Tank
+target3.name=Octopus
 target2.typeParameters=
 readme.y=10
 readme.x=10
